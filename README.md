@@ -1,2 +1,6 @@
 # Used-Car-Price-Prediction
-Analisis dan pemodelan machine learning untuk memprediksi harga Used Car
+Mobil99 adalah startup dealer mobil bekas yang beroperasi di Arab Saudi. Permasalahan utama yang ingin diselesaikan adalah bagaimana menentukan estimasi harga mobil bekas secara cepat, akurat, dan sesuai dengan kondisi pasar Saudi.
+
+Proses Bisnis Mobil99 Pembelian: Mobil99 mengakuisisi mobil bekas dari masyarakat. Rekondisi: Setiap mobil yang dibeli melalui proses pengecekan menyeluruh, perbaikan, servis, dan pemeliharaan untuk memastikan kualitasnya. Penjualan: Mobil yang telah direkondisi dijual kepada konsumen.
+
+Permasalahan utama yang ingin diselesaikan ada di tahap penentuan harga jual mobil bekas setelah direkondisi untuk dijual kepada konsumen. Dikarenakan keterbatasan SDM, melihat cukup banyak variabel yang menentukan harga mobil bekas, diperlukan sebuah algoritma yang dapat mengestimasi harga mobil dengan instan dengan mempertimbangkan resiko over/under pricing, dan juga data historis lokal. Dengan dataset yang berisi mobil - mobil bekas di Arab Saudi (diambil dari Syarah.com), diharapkan dapat membuat algoritma machine learning yang dapat mengestimasikan harga mobil yang pantas sehingga Mobil99 tidak mengalami kerugian dan memiliki nilai tambah dari segi nilai harga yang terpercaya sehingga dapat meningkatkan penjualan.
